@@ -1,0 +1,14 @@
+{
+  "name": "censoreddocument",
+  "version": "1.0.0",
+  "description": "Censored document",
+  "scripts": {
+    "start": "node processEncryptDocument.js"
+  },
+  "author": "Thien Le",
+  "license": "MIT",
+  "dependencies": {
+    "diskdb": "^0.1.17",
+    "express": "^4.16.2"
+  }
+}
